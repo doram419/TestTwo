@@ -1,5 +1,8 @@
 String content2 = 동해물과 백두산이 마르고 닳도록;
+
 하이
+String name = "우찬천재";
+
 int number2 = 1011;
 
 void main(){
