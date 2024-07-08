@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 String content2 = 동해물과 백두산이 마르고 닳도록;
 
 int number2 = 1011;
@@ -5,4 +6,7 @@ int number2 = 1011;
 void main(){
 	printf("테스트입니다.");
 }
+
+=======
+hello hyowon
 
