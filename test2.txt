@@ -1,14 +1,22 @@
 String content2 = 동해물과 백두산이 마르고 닳도록;
+
+하이
 String name = "우찬천재";
-<<<<<<< Updated upstream
+
 int number2 = 1011;
 =======
 우찬
 int number2 = 31021;
 
->>>>>>> Stashed changes
+
+=======
+
+int number2 = 31021;
+
+
 
 void main(){
+	printf("네모네모멈뭄미");
 	printf("테스트입니다.");
 }
 
